@@ -1,1 +1,2 @@
+#!/bin/bash
 docker run -v /home/kevin:/kevin -t -i audiogrep /bin/bash
