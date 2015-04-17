@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t audiogrep .
+docker build -t kevinhughes27/audiogrep .
