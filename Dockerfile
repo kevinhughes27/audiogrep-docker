@@ -5,7 +5,7 @@ RUN apt-get update
 RUN apt-get install -y software-properties-common
 
 # FFMPEG
-RUN apt-add-repository ppa:jon-severinsson/ffmpeg
+RUN apt-add-repository ppa:mc3man/trusty-media
 RUN apt-get update
 RUN apt-get install -y ffmpeg
 
